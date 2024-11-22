@@ -9,24 +9,7 @@
 
     <div id="trafficCounter">Loading traffic...</div>
 
-    <script>
-        // Cek apakah trafik sudah ada di localStorage
-        let currentTraffic = localStorage.getItem('trafficCount');
-
-        // Jika tidak ada data trafik, inisialisasi dengan 0
-        if (!currentTraffic) {
-            currentTraffic = 0;
-        }
-
-        // Tambahkan 1 kunjungan
-        currentTraffic++;
-
-        // Simpan kembali ke localStorage
-        localStorage.setItem('trafficCount', currentTraffic);
-
-        // Tampilkan jumlah trafik pada elemen dengan id 'trafficCounter'
-        document.getElementById('trafficCounter').innerText = `Current Traffic: ${currentTraffic}`;
-    </script>
+    <script src="script.js" type="module"></script>
     
 </body>
 </html>
