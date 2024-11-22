@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traffic Counter</title>
+</head>
+<body>
+
+    <div id="trafficCounter">Loading traffic...</div>
+
+    <script>
+        // Cek apakah trafik sudah ada di localStorage
+        let currentTraffic = localStorage.getItem('trafficCount');
+
+        // Jika tidak ada data trafik, inisialisasi dengan 0
+        if (!currentTraffic) {
+            currentTraffic = 0;
+        }
+
+        // Tambahkan 1 kunjungan
+        currentTraffic++;
+
+        // Simpan kembali ke localStorage
+        localStorage.setItem('trafficCount', currentTraffic);
+
+        // Tampilkan jumlah trafik pada elemen dengan id 'trafficCounter'
+        document.getElementById('trafficCounter').innerText = `Current Traffic: ${currentTraffic}`;
+    </script>
+    
+</body>
+</html>
