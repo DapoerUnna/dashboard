@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sacred-drive-444518-b3",
+  "private_key_id": "f2adf18136d249585d9c3989bcac83ef711d4dc0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtfnXywcCukpSE\nEzdSZTekqm+I+9kAP5ea5WtoIkMO4Z4dPjzqq4PSucEHL7zOch6Do81KL2RbtlcL\ntQV5ds33uTCX/MZvtpndO2hxY/XjUcA6K3PASEIIJD8dsibZWseN30OLqPdDe/ca\nbMKmDimyOXtmZDtX18ipXKMKNRmSD1l+pJ0g0TRfUwt6KItI9uhzRz+ZkOuHmGj/\nENSWN/zkFKMeRVIqnGqtH7/9dCs3kXUVBKFwgOQEg1a+LULwTppUDvSojtomxXO/\nVbcjg/V/0znRiCiL7zrxcj30HUowo1/5ArsNaxtLmNGc1bkafj7VAw4khS8thIyn\nxcphj/qRAgMBAAECggEACJrzSXpN/vKvCmKEHdJ+qSyZeeVJAQPGdqS+uDRr2FD9\nRVTNE3Q0pob3Ya5+2kwLgqrFH9L8MrbXeDGPPxQzGOCO/hjn9EpNtS0RS/+B5per\nVc9KL10+JjZ7CXNozSLdL0alzGdx9T9QtTc0C+W7sHb8rYpW7a9aqPja7uKNnUKP\n7wydWGcjl8AU3QIez3YhdwFcW3Y9lfaZSZ2a7Do3AENj4x6xIbh+NYqgGCqTHicJ\nhYGKvMNrQTHtXP/zbBy0RNLkCrFdoHwu87IGmyLztf3mo/ygh/C6bkZXlUYXV0/k\nq1ITi0IFMzl3qV/r+rwkSkRgf2ErXaFW0+c2HH2XyQKBgQDinX+CEHlg8f6fKGFI\n7v5C/cbtU8+gEkbLuCPMNmncYJo9QA/N+I/XJ+W+7A4EtKNVHoiw1oAnY+ZRLfuK\nHiXvfA7JcWTkn2Bf77npD0y5LymbRTivYT+C73zCW4rdvaEpApribsD5o46BFUUw\nkbyp0QD2rd3owhaAdIl70mQwWQKBgQDD/ZnT2+JdUIMBzqx8uzevV31wH9jRnBIr\nBHxQGlVPYkMmYa7Jp1VrYfUxIltycSivO5h/omNBu4XppA4Nb+7F1aKjpMHrYaCj\n3x/61n9d3ma6HGtPvJ3zQAt8bvdbjeUCHI1xNYNRoL4KVSzSjPrLgsT3rQUcZoLk\nKgStAkYU+QKBgQDcbBnUZzXJCFmEcgB+soh6nOHbgoQXzO8zxH59agf6JbShEyjM\nTZOL0fD0jiLsjM+6QaLvbxTkO5WRLMrYg46erOqtIjDi9+sEJeeNPCaCkc9EikYi\nwNLIBy4w1l3yZTrW6wPAb74gk+hOwmO0ZG1AOF1Zk7Cfb/n3JGN+Hxz4sQKBgQCj\nbTxwJNJE7XXQc/3wpExysYmvjV7GqlWb+UmPoeWxJEbKInoVPKtFt5E1P2jxrNo4\nBIHNLCOIFE493Ma6/bMk1FeiDSiGlgnVm6CXEXVzWJhgaIIzIxyyUZ1CTWWFunRT\npmtrEyxFTLwq8YtGprgaKxkDTgsM+435o+/yNAssQQKBgE1QFvJ4PcWO3d8t/en3\n0sywqmj2crRo+GllaCLPqVPz8wPK4qlwZNN2Fp1+dejyh32jwtmc/QEJPJ+m9SDO\nrTpFO4caIlrrIy2yNBejmUUDlzmz+xj/aOajt7oU6FNUW7cVx/5BLY7Y8qgrBdvU\nTpClOeLCmT+unLcXIjTR4Vxh\n-----END PRIVATE KEY-----\n",
+  "client_email": "dapoerunna@sacred-drive-444518-b3.iam.gserviceaccount.com",
+  "client_id": "117127871886988492959",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dapoerunna%40sacred-drive-444518-b3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
